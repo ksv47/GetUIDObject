@@ -1,1 +1,2 @@
 # GetUIDObject
+Получение UID
